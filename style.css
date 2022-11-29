@@ -1,0 +1,21 @@
+ *{padding:0;
+    margin:0;
+}
+div{
+    background-color: aqua;
+    color: brown;
+    font-size: xx-large;
+    margin: 45px;
+}
+button{
+    background-color: rgb(142, 131, 153);
+    color: black;
+    font-size: xx-large;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: beige;
+    color: brown;
+    box-shadow:   10px 10px 5px 12px lightblue;
+    text-align: center;
+}
